@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spbu-csharp-networks-practice", "spbu-csharp-networks-practice.csproj", "{DDDFD32C-85AB-4CA5-9254-33C93DF50C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDFD32C-85AB-4CA5-9254-33C93DF50C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDFD32C-85AB-4CA5-9254-33C93DF50C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDFD32C-85AB-4CA5-9254-33C93DF50C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDFD32C-85AB-4CA5-9254-33C93DF50C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
